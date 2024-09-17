@@ -1,4 +1,4 @@
-# Daily Streak #3
+# Daily Streak #3 but i want to inclease my thingy again
 
 - 👋 Hi, I’m @Ch1llyB1lly
 - 👀 I’m interested in learning new skills
