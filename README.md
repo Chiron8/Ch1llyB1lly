@@ -1,4 +1,4 @@
-# Daily Streak #2
+# Daily Streak #3
 
 - 👋 Hi, I’m @Ch1llyB1lly
 - 👀 I’m interested in learning new skills
