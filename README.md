@@ -1,4 +1,4 @@
-# Daily Streak #3 but i want to inclease my thingy again# Daily streak: 1 😕
+# Daily streak: 1 😕
 - 👋 Hi, I’m @Ch1llyB1lly
 - 👀 I’m interested in learning new skills
 - 🌱 I’m currently learning reinforcement learning using pytorch pls help
