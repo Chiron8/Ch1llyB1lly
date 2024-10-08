@@ -28,3 +28,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ch1llyb1lly&" alt="ch1llyb1lly" /></p>
 
+[![Ch1llyB1lly's GitHub | Stats](https://stats.quira.sh/Ch1llyB1lly/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Ch1llyB1lly)
+[![Ch1llyB1lly's GitHub | Languages Over Time](https://stats.quira.sh/Ch1llyB1lly/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Ch1llyB1lly)
+[![Ch1llyB1lly's GitHub | Topics Over Time](https://stats.quira.sh/Ch1llyB1lly/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Ch1llyB1lly)
+
