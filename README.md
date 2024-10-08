@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Jetpack Joyride AI](https://github.com/Ch1llyB1lly/Jetpack-Joyride-AI)
 
-- 🌱 I’m currently learning **Reinforcement learning with PyTorch**
-
 - 🤨 What I'm actually doing [Revising for exams :(](https://github.com/Ch1llyB1lly/Revising)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ch1llyB1lly](https://github.com/Ch1llyB1lly)
+
+- 🌱 I’m currently learning **Reinforcement learning with PyTorch**
 
 - ⚡ Fun fact **I like target shooting 🔫**
 
