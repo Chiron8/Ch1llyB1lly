@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Ch1llyB1lly</h1>
+<h1 align="center">Hey, I'm Chiron8</h1>
 <h3 align="center">A student from the UK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ch1llyb1lly&label=Profile%20views&color=0e75b6&style=flat" alt="ch1llyb1lly" /> </p>
