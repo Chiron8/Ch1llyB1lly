@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ch1llyb1lly" alt="ch1llyb1lly" /></a> </p>
 
-- 🔭 I’m currently working on [Jetpack Joyride AI](https://github.com/Ch1llyB1lly/Jetpack-Joyride-AI)
+- 🔭 I’m currently working on [Jetpack Joyride AI](https://github.com/Chiron8/Jetpack-Joyride-AI)
 
-- 🤨 What I'm actually doing [Revising for exams :(](https://github.com/Ch1llyB1lly/Revising)
+- 🤨 What I'm actually doing [Revising for exams :(](https://github.com/Chiron8/Revising)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ch1llyB1lly](https://github.com/Ch1llyB1lly)
+- 👨‍💻 All of my projects are available at [https://github.com/Chiron8](https://github.com/Ch1llyB1lly)
 
 - 🌱 I’m currently learning **Reinforcement learning with PyTorch**
 
