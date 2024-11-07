@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I'm Chiron8</h1>
 <h3 align="center">A student from the UK</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ch1llyb1lly&label=Profile%20views&color=0e75b6&style=flat" alt="ch1llyb1lly" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chiron8&label=Profile%20views&color=0e75b6&style=flat" alt="chiron8" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ch1llyb1lly" alt="ch1llyb1lly" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiron8" alt="chiron8" /></a> </p>
 
 - 🔭 I’m currently working on [Jetpack Joyride AI](https://github.com/Chiron8/Jetpack-Joyride-AI)
 
@@ -22,9 +22,9 @@
 
 ## Stats:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ch1llyb1lly&show_icons=true&locale=en" alt="ch1llyb1lly" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chiron8&show_icons=true&locale=en" alt="chiron8" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ch1llyb1lly&" alt="ch1llyb1lly" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiron8&" alt="chiron8" /></p>
 
-[![Ch1llyB1lly's GitHub | Stats](https://stats.quira.sh/Ch1llyB1lly/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Ch1llyB1lly)
+[![Chiron8's GitHub | Stats](https://stats.quira.sh/Chiron8/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=chiron8)
 
