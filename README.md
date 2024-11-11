@@ -26,5 +26,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiron8&" alt="chiron8" /></p>
 
-[![Chiron8's GitHub | Stats](https://stats.quira.sh/chiron8/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=chiron8)
+[![Chiron8's GitHub | Stats](https://stats.quira.sh/chiron8/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Chiron8)
 
