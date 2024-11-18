@@ -2,6 +2,7 @@
 <h3 align="center">A student from the UK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiron8&label=Profile%20views&color=0e75b6&style=flat" alt="chiron8" /> </p>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=chiron8&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on [Jetpack Joyride AI](https://github.com/Chiron8/Jetpack-Joyride-AI)
