@@ -9,7 +9,7 @@
 
 - 🤨 What I'm actually doing [Revising for exams!](https://github.com/Chiron8/Revising)
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C/C++**
 
 - 🔫 Fun fact **I like target shooting**
 
